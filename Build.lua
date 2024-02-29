@@ -70,3 +70,4 @@ group "Dependencies"
 group ""
 
 include "Projects/Example1/Build.lua"
+include "Projects/Example2/Build.lua"
